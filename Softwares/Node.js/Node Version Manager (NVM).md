@@ -1,4 +1,4 @@
-# Version Manager
+# Node Version Manager (NVM)
 
 Caso precise rodar mais de uma versão do Node.js, alternando entre verões diferentes será necessário utilizar um software de gerenciamento de verão.
 

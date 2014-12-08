@@ -1,4 +1,4 @@
-# Image Minification
+# Image Minification ([grunt-contrib-imagemin](https://github.com/gruntjs/grunt-contrib-imagemin))
 
 Caso tente executar um `grunt build`, subir servidor com `grunt server` ou até injetar dependências com `grunt wiredep` e for apresentado um erro como o abaixo:
 
