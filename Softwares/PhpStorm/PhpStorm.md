@@ -1,5 +1,4 @@
-JetBrains PHPStorm
-=
+# JetBrains PHPStorm
 
 Quando falamos no desenvolvimento de aplicações modernas queremos que nosso ambiente proporcione as melhores ferramentas e as mais produtivas técnicas de desenvolvimento cobrindo testes unitários, qualidade de software e até mesmo conexão com o banco de dados dentro da IDE.
 
